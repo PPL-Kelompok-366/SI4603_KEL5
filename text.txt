@@ -6,4 +6,8 @@ Hisyam Putra Jania (1202220215)
 Muhammad Ridho Irhamna (1202223395)
 Dhivi Cagardimika Sumardiyono (1202220022)
 Alfira Triazalma (1202223101)
+<<<<<<< HEAD
 abcd
+=======
+Lil Budi (1202220000)
+>>>>>>> d18eace32bfab0bfaea9a15ae7ccc95471850f76
