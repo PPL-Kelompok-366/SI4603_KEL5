@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 Kelompok 5 SI4603
+=======
+KELOMPOK 366:
+>>>>>>> 9780b09ab618857ec65914c49b51218ac22802d8
 
 Aditya Jaka Prasaja 1202223113
 Abim Bimasena ARP (1202223230)
 Hisyam Putra Jania (1202220215)
-Muhammad Ridho Irhamna (1202223395)
+Muhammad Ridho Irhamna (1202223395) (DONE)
 Dhivi Cagardimika Sumardiyono (1202220022)
 Alfira Triazalma (1202223101)
 <<<<<<< HEAD
